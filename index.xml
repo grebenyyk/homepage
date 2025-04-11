@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dimitry Grebenyuk</title>
-    <link>https://grebenyyk.github.io/</link>
+    <link>https://dimitrygrebenyuk.ru/</link>
     <description>Recent content on Dimitry Grebenyuk</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Sun, 06 Nov 2022 22:01:27 +0300</lastBuildDate>
     
-	<atom:link href="https://grebenyyk.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://dimitrygrebenyuk.ru/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
